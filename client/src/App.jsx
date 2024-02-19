@@ -2,6 +2,6 @@
 
 export default function App() {
   return (
-    <div>App Study Space</div>
+    <h1 className="text-3xl text-red-300">App Study Space</h1>
   )
 }
